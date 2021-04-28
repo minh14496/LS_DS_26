@@ -7,9 +7,6 @@ verify_ssl = true
 
 [packages]
 category-encoders = "*"
-eli5 = "*"
-matplotlib = "*"
-notebook = "*"
 numpy = "*"
 pandas = "*"
 plotly = "*"
@@ -20,6 +17,8 @@ sklearn = "*"
 xgboost = "*"
 requests = "*"
 shap = "*"
+matplotlib = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
